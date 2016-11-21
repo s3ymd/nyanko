@@ -1,5 +1,7 @@
 # 「LINE怪盗にゃんこ」を自動で解くプログラム
 
+<img src="sample.jpg" height="200">
+
 ## 実行例
 
 ```
